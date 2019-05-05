@@ -1,0 +1,16 @@
+header .container{
+    background-color: blueviolet;
+    color: white;
+}
+.main{
+    background-color: gainsboro;
+    color: black;
+}
+.color1{
+    background-color: gray;
+    color: white;
+}
+footer .container{
+    background-color: blueviolet;
+    color: white;
+}
